@@ -1,2 +1,3 @@
-notes
+# notes
+my note repository.
 =====
